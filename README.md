@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakeshsingh007
+- 👋 Hi, I’m Rakesh Singh
 - 👀 I’m interested in Python, Django, PostgreSQL, AWS, Docker
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on React framework
